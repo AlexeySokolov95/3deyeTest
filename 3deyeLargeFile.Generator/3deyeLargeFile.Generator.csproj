@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>LargeFileTools.Generation</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../3deyeLargeFile.Shared/3deyeLargeFile.Shared.csproj" />
+  </ItemGroup>
+</Project>
